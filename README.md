@@ -7,7 +7,7 @@ projet morpion 1ère nsi
 * 
 
 
-'''python
+```python
 def trololo (x):
   return x**2
-'''
+```
