@@ -5,3 +5,9 @@ projet morpion 1ère nsi
 
 * trouvé 
 * 
+
+
+'''python
+def trololo (x):
+  return x**2
+'''
