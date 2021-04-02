@@ -3,11 +3,8 @@ projet morpion 1ère nsi
 
 ## 2 avril 2021
 
-* trouvé 
-* 
+* trouvé une vidéo 
+* trouvé un site parlant de pygame
 
 
-```python
-def trololo (x):
-  return x**2
-```
+
